@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="color:#E8E4D9;">👋 Hey, I'm <span style="color:#C4A484;">Ishaani Prashant</span></h1>
+  <h1 style="color:#E8E4D9;">Hey, I'm <span style="color:#C4A484;">Ishaani</span></h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=C4A484&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Exploring+AI+and+Machine+Learning;Learning+To+Transform+Data+Into+Impact;Future+Data+Scientist" alt="Typing Animation" />
