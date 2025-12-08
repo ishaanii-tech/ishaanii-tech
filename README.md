@@ -15,12 +15,12 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 B.Tech in Computer Science (AIML Specialization)
-- 🔍 Passionate about Machine Learning & Data Analytics
-- 📊 Love exploring real-world applications of AI
-- 💡 Always experimenting with new ideas & projects
+-  B.Tech in Computer Science (AIML Specialization)
+-  Passionate about Machine Learning & Data Science
+-  Love exploring real-world applications of AI
+-  Always experimenting with new ideas & projects
 
 ---
 
@@ -39,19 +39,12 @@
 </div>
 
 ---
-
-### ✨ Fun Fact
-> Every dataset has a story...  
-> I’m learning how to make it speak! 📈💬
-
+>  Little grey cells, big AI dreams. Hercule Poirot would be proud.
 ---
 
 <div align="center">
   
-  💼 *Let’s connect and build something impactful!*  
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitor+Count&color=C4A484&style=flat-square" />
+   *Let’s connect and build something impactful!*  
 
 </div>
 
