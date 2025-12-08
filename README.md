@@ -14,6 +14,7 @@
 </div>
 
 ---
+<img src="https://komarev.com/ghpvc/?username=IshaaniPrashant&label=Visitor+Count&color=C4A484&style=flat-square" />
 
 ### About Me
 
