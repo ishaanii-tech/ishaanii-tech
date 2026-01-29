@@ -3,7 +3,7 @@
   <h1 style="color:#E8E4D9;">Hey, I'm <span style="color:#C43D3D;">Ishaani</span></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=C43D3D&center=true&vCenter=true&width=650&lines=AI+Red+Teaming+Aspirer;Breaking+Models+to+Make+Them+Safer;Exploring+LLM+Security+%26+Adversarial+ML;Learning+AI+Failure+Modes" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=C43D3D&center=true&vCenter=true&width=650&lines=AI+Red+Teamer+Aspirer;Breaking+Models+to+Make+Them+Safer;Exploring+LLM+Security+%26+Adversarial+ML;Learning+AI+Failure+Modes" alt="Typing Animation" />
   </a>
 
   <p style="color:#E8E4D9;font-size:16px;">
